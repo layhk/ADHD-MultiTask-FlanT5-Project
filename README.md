@@ -1,6 +1,6 @@
 # ADHD-MultiTask-FlanT5
 
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
+[![TechRxiv](https://img.shields.io/badge/TechRxiv-XXXX.XXXXX-b31b1b.svg)](https://techrxiv.org/abs/XXXX.XXXXX)
 [![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-Model-yellow)](https://huggingface.co/lhwang19/ADHD-MultiTask-FlanT5)
 [![Demo](https://img.shields.io/badge/🚀%20Live-Demo-blue)](https://adhd-multitask-flant5.streamlit.app/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
@@ -11,7 +11,7 @@ A privacy-preserving, low-resource multi-task NLP framework built on **Flan-T5-B
 
 ## 🎯 Quick Links
 
-- **📄 Paper**: [arXiv](https://arxiv.org/abs/XXXX.XXXXX) *(Link will be updated after arXiv approval)*
+- **📄 Paper**: [TechRxiv](https://techrxiv.org/abs/XXXX.XXXXX) *(Link will be updated after approval)*
 - **🤖 Model**: [HuggingFace Hub](https://huggingface.co/lhwang19/ADHD-MultiTask-FlanT5)
 - **🚀 Live Demo**: [Streamlit App](https://adhd-multitask-flant5.streamlit.app/)
 - **📧 Contact**: layhwangk@gmail.com
@@ -67,11 +67,11 @@ If you use this work in your research, please cite:
 @article{koay2025adhd,
   title={Organising ADHD Users' Thoughts: A Low-Resource Multi-Task Framework using Flan-T5},
   author={Koay, Lay Hwang},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  journal={TechRxiv preprint techrxiv:XXXX.XXXXX},
   year={2025}
 }
 ```
-*arXiv link will be updated after approval.*
+*techrxiv link will be updated after approval.*
 
 ---
 
@@ -107,7 +107,7 @@ If you use this work in your research, please cite:
 
 *Trained on 4,000 examples from r/ADHD (2008-2024) using a novel staged training strategy.*
 
-See the [full paper](https://arxiv.org/abs/XXXX.XXXXX) for detailed methodology, ablation studies, error analysis, limitations, and future work.
+See the [full paper](https://techrxiv.org/abs/XXXX.XXXXX) for detailed methodology, ablation studies, error analysis, limitations, and future work.
 
 ---
 
@@ -143,6 +143,6 @@ This project is licensed under the Apache License 2.0. The model weights are ava
 ## 📧 Contact & Links
 
 - **Email**: layhwangk@gmail.com
-- **Paper**: [arXiv](https://arxiv.org/abs/XXXX.XXXXX) *(Link will be updated after arXiv approval)*
+- **Paper**: [TechRxiv](https://techrxiv.org/abs/XXXX.XXXXX) *(Link will be updated after approval)*
 - **Model**: [HuggingFace](https://huggingface.co/lhwang19/ADHD-MultiTask-FlanT5)
 - **Demo**: [Streamlit Cloud](https://adhd-multitask-flant5.streamlit.app/)
