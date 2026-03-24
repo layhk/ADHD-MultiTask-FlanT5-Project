@@ -34,8 +34,9 @@ The demo is hosted on Streamlit Cloud for easy access.
 
 **Visit the [live Streamlit demo](https://adhd-multitask-flant5.streamlit.app/)** to test the model interactively. Simply paste your text and see real-time results.
 
-> **Note**: The model on HuggingFace Hub requires additional post-processing logic (calibrated per-label thresholds and exclusivity rules) to achieve the reported performance. The demo includes these components.
-
+> ⚠️ **Notes**:  
+> • The HuggingFace model requires additional post-processing (calibrated thresholds + exclusivity rules) to match reported performance — the demo includes these components.  
+> • The demo runs on Streamlit Community Cloud and may go to sleep after inactivity. If it doesn’t load, click "Wake up" and wait ~10–20 seconds.
 ---
 
 ## 🔬 Technical Highlights
@@ -72,9 +73,6 @@ If you use this work in your research, please cite:
   doi={10.36227/techrxiv.177219990.00519818/v1}
 }
 ```
-*techrxiv link will be updated after approval.*
-
----
 
 ## 🎓 For Researchers
 
