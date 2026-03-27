@@ -11,12 +11,30 @@ A privacy-preserving, low-resource multi-task NLP framework built on **Flan-T5-B
 
 ## 🎯 Quick Links
 
-- **📄 Paper**: [TechRxiv](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177219990.00519818/v1) 
+- **📄Paper (Concise Research Version)**: [TechRxiv](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177219990.00519818/v1)
+- **📜 Full Thesis (Detailed & Explanatory)**: [MSc Dissertation (PDF)](./lay_thesis.pdf) — *Detailed literature review on ADHD cognitive challenges & project journey*
 - **🤖 Model**: [HuggingFace Hub](https://huggingface.co/lhwang19/ADHD-MultiTask-FlanT5)
 - **🚀 Live Demo**: [Streamlit App](https://adhd-multitask-flant5.streamlit.app/)
 - **📧 Contact**: layhwangk@gmail.com
 
 ---
+
+## 📘 Thesis (Full Version)
+
+The full MSc thesis is available for readers who want a more detailed and accessible explanation of the project.
+
+Compared to the preprint, the thesis includes:
+- A broader introduction to ADHD cognitive and communication challenges
+- Step-by-step explanation of design decisions and failed approaches
+- Detailed discussion of data collection, annotation, and training challenges
+
+This version may be more helpful for:
+- Students learning NLP or working on similar projects
+- ADHD readers or non-technical audiences seeking context
+- Anyone interested in the full development process behind the system
+
+---
+ 
 
 ## ✨ What This Does
 
